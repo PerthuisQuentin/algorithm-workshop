@@ -1,0 +1,38 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "familyId": 1,
+            "quantity": 2,
+            "label": "Plaquette de frein"
+        },
+        {
+            "id": 4,
+            "familyId": 1,
+            "quantity": 2,
+            "label": "Disque de frein"
+        }
+    ],
+    "2": [
+        {
+            "id": 2,
+            "familyId": 2,
+            "quantity": 1,
+            "label": "Batterie Norauto"
+        }
+    ],
+    "3": [
+        {
+            "id": 3,
+            "familyId": 3,
+            "quantity": 2,
+            "label": "Ampoule H4"
+        },
+        {
+            "id": 5,
+            "familyId": 3,
+            "quantity": 2,
+            "label": "Ampoule H7"
+        }
+    ]
+}

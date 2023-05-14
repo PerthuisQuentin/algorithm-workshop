@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "label": "Freinage"
+    },
+    {
+        "id": 2,
+        "label": "Batteries"
+    },
+    {
+        "id": 3,
+        "label": "Eclairage"
+    },
+    {
+        "id": 4,
+        "label": "Pneus"
+    }
+]
